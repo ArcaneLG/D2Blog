@@ -3,28 +3,27 @@ html {
     font-family: sans-serif;
   }
   
-  body {
+body {
     margin: 0 auto;
     width: 100%;
     max-width: 80ch;
     padding: 1rem;
     line-height: 1.5;
     color: #fff;
-  }
-  
-  * {
+}
+
+* {
     box-sizing: border-box;
-  }
-  
-  h1 {
+}
+
+h1 {
     margin: 1rem 0;
     font-size: 2.5rem;
-  }
+}
   
 .nav-links {
     width: auto;
     top: 10rem;
-    left: 48px;
     background: none;
     display: block;
     margin-top: 20px;
@@ -50,4 +49,28 @@ html {
   .expanded {
     display: unset;
   }
+
+a {
+    color: #ffffff;
+}
+  
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.tag {
+    margin: 0.25em;
+    border: 2px solid #ffffff;
+    border-radius: .5em;
+    padding: .5em 1em;
+    font-size: 1.15em;
+    background: none;
+    text-decoration: none;
+}
+
+.tags a:hover,
+.tags a:focus {
+    background-color: #44a2e5;
+}
 
