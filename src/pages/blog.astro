@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogLink from "../components/BlogLink.astro";
 const pageTitle = "Blog";
 const allPosts = await Astro.glob('./posts/*.md');
+allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
 ---
 <html lang="en">
 	<head>
