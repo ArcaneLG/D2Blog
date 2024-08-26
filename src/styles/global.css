@@ -20,14 +20,18 @@ h1 {
     margin: 1rem 0;
     font-size: 2.5rem;
 }
+
+.post-title {
+    color: #ffffff;
+    
+}
   
 .nav-links {
     width: auto;
-    top: 10rem;
     background: none;
     display: block;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
   
   .nav-links a {
