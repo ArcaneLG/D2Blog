@@ -5,18 +5,17 @@ pubDate: 2024-08-26
 description: 'This build makes use of Bladefury and transcendence to maximize uptime on a Synthoceps-enhanced Consecrate.'
 tags: ["Titan", "Prismatic", "Build"]
 ---
-Prismatic titan is good.
-## Subclass: Prismatic Titan
+Subclass: Prismatic Titan
 
-### Exotic Armor: Synthoceps, or Spirit of Synthoceps
+Exotic Armor: Synthoceps, or Spirit of Synthoceps
 
-### Aspects: Knockout, Consecration
+Aspects: Knockout, Consecration
 
-### Fragments: Protection, Dawn, Balance, Sacrifice, Purpose
+Fragments: Protection, Dawn, Balance, Sacrifice, Purpose
 
-### Abilities: Towering Barricade, Frenzied Blade, Shackle Grenade
+Abilities: Towering Barricade, Frenzied Blade, Shackle Grenade
 
-### Important Armor Mods: 3x Heavy Handed, 1x Hands-On, 1x Recuperation
+Important Armor Mods: 3x Heavy Handed, 1x Hands-On, 1x Recuperation
 
 #### Playstyle
 
