@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Speaker's Sight Warlock'
+title: "Speaker's Sight Warlock"
 pubDate: 2024-09-06
 description: 'This build excels at supporting teammates and yourself, relying on fast ability regen to maintain healing turrets and Hellion.'
 tags: ["Warlock", "Solar", "Build"]
