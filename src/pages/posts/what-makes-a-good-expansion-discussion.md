@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Why Forsaken is the Best Expansion"
 pubDate: 2024-09-22
-description: 'Talking about what is and isn't necessary for an expansion to be considered good, including my opinion on what the ideal expansion looks like.'
+description: "Talking about what is and isn't necessary for an expansion to be considered good, including my opinion on what the ideal expansion looks like."
 tags: ["Discussion"]
 ---
 Destiny 2's expansions have varied greatly in community reception over the years. Forsaken and Witch Queen are probably the best expansions, although each person's ranking may vary based on what criteria they use to judge each one. For me, an expansion's goals can be split into two categories: new systems and new content. New systems refer to broad changes across the entire game; these are usually felt outside of the content specifically introduced by the expansion (e.g. Lightfall's Overcharge/Surge activity modifiers, Witch Queen's weapon crafting, Shadowkeep's introduction of champions). New content is everything else: new weapons and armor, new subclasses, new destination, new campaign, etc. There might be a lot more stuff in that second category, but I think the first category is equally important when assessing the quality of an expansion. A good expansion should enhance the game as a whole.
